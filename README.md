@@ -9,9 +9,9 @@
 </p> 
 
 <p align="left">
-    <a href="https://twitter.com/[YOUR_TWITTER]" target="_blank">
+<!--     <a href="https://twitter.com/" target="_blank">
         <img src="https://img.shields.io/badge/@me_straight-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@me_straight" />
-    </a>
+    </a> -->
     <a href="https://discordapp.com/users/953527567808356404" target="_blank">
         <img src="https://img.shields.io/badge/@me_straight-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="953527567808356404" />
     </a>
@@ -47,8 +47,8 @@
 ---
 
 <div align="center">
-    <h2>🎵 what i'm up to</h2>
-    <a href="https://discordapp.com/users/953527567808356404" target="_blank">
+    <h2>🎵 what i'm up to?</h2>
+    <a href="https://discord.com/users/953527567808356404" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/953527567808356404" />
     </a>
     <br/>
