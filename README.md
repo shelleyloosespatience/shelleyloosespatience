@@ -1,6 +1,6 @@
 <div align="center">
     <h2>hey, what's up 👋 first of all you check out my site on https://laxenta.info : 3</h2>
-    <img width="1850" height="260" align="center" src="https://img4.gelbooru.com/thumbnails//14/c4/thumbnail_14c413879e563ef7b24b07a7d2be8910.jpg" alt="@me_straight"/>
+    <img align="center" src="https://img4.gelbooru.com/thumbnails//14/c4/thumbnail_14c413879e563ef7b24b07a7d2be8910.jpg" alt="@me_straight"/>
 </div>
 <br/>
 
