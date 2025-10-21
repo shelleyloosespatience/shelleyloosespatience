@@ -1,6 +1,6 @@
 <div align="center">
     <h2>hey, what's up 👋:3</h2>
-    <h3>Check my site out btw <a href="https://laxenta.info" target="_blank" rel="noopener noreferrer">Click here UwU</a></h3>
+    <h3>https://laxenta.info </h3>
     <img align="center" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/wuthering-waves-wuwa-14-release-date-and-time-maintenance-starts-ends-when-camellya-coming-out.jpg" alt="@me_straight"/>
 </div>
 <br/>
