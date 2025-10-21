@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-    <h2>🎵 what i'm up to? ( adding more soon, gotta make apis on my website for that shi )</h2>
+    <h2>🎵 what i'm up to? I wake up, i eat, i study, then i study more, then i prob code, then talk to my favorite woman, then die for the night.</h2>
 <!--     <a href="https://discord.com/users/953527567808356404" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/953527567808356404" /> -->
     </a>
