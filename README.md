@@ -54,7 +54,7 @@
     </a>
     <br/>
     <a href="https://open.spotify.com/user/31ap5y3jngmpcyhal65mjkhgqxzm" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ap5y3jngmpcyhal65mjkhgqxzm" />
+<img src="https://www.laxenta.tech/api/spotify-tracks?user=a029834021941b365e835e6e0bc3e66b" alt="Spotify Recently Played" />
     </a>
 </div>
 
