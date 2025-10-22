@@ -54,8 +54,7 @@
     </a>
     <br/>
     <a href="https://open.spotify.com/user/31ap5y3jngmpcyhal65mjkhgqxzm" target="_blank">
-<img src="https://www.laxenta.tech/api/spotify-tracks?user=a029834021941b365e835e6e0bc3e66b&footer=Laxenta+Inc&color=1f4cd1" alt="Spotify Recently Played" />
-
+<img src="https://www.laxenta.tech/api/spotify-tracks?user=spotify_819871ae46fd12a9867c1ae42870ba95&footer=Laxenta+Inc&color=cc0fa9" alt="Spotify Recently Played" />
 <div align="center">
     <p><i>@me_straight on discord</i></p>
     <p><sub>ps: if you need something built, just dm me. prices are reasonable because i actually enjoy this stuff :accessibility: </sub></p>
