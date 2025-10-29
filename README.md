@@ -16,30 +16,26 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const developer = {
-    name: "@me_straight",
-    location: "Earth 🌍",
-    currentFocus: "Building cool shit that actually works",
-    philosophy: "Keep it simple, make it functional",
-    motivation: "I genuinely enjoy coding",
-    
-    workingOn: {
-        project: "Ayumi",
-        description: "Discord bot focusing on music & anti-raid",
-        status: "In active development 🚀"
-    },
-    
-    learning: ["Rust 🦀", "Python 🐍"],
-    interests: ["React", "Next.js", "TypeScript", "Discord Bots"],
-    
-    freelance: {
-        available: true,
-        services: ["Discord Bots", "Websites", "APIs", "Custom Solutions"],
-        pricing: "Reasonable - because I love what I do"
-    }
-};
-```
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="800">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=I'm+@me_straight%2C+just+some+dev+who+started+coding+as+a+hobby;and+kinda+got+obsessed+with+it.+I+build+stuff+that+actually+works%2C;keep+things+simple%2C+and+don't+charge+crazy+prices;because+I+genuinely+enjoy+doing+this+shit." alt="About Me" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" />
+</div>
+
+**Currently Working On:** 🎵 **Ayumi** - Discord bot focusing on music & anti-raid  
+**Learning:** 🦀 Rust (blazingly fast) • 🐍 Python (backend shenanigans)  
+**Building With:** React • Next.js • TypeScript • Whatever seems fun  
+**Freelance:** ✅ Available - Discord bots, websites, APIs, custom solutions
 
 <div align="center">
     <a href="https://discordapp.com/users/953527567808356404" target="_blank">
