@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+What's+up+%3A3;Full+Stack+Developer;Discord+Bot+Creator;Freelance+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+What's+up+%3A3;Full+Stack+Developer;Hosting+Solutions;Hobbyist+Freelance+Developer;Custom+fullstack+setup;Startup+Solutions;demands?+huH?" alt="Typing SVG" />
     
 <h3>
         <a href="https://www.laxenta.tech">
