@@ -14,11 +14,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
-</div>
+## About Meh? you can read it on my site ngl
 
 <table align="center">
 <tr>
@@ -28,14 +24,10 @@
 </tr>
 </table>
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" />
-</div>
-
-**Currently Working On:** 🎵 **Ayumi** - Discord bot focusing on music & anti-raid  
-**Learning:** 🦀 Rust (blazingly fast) • 🐍 Python (backend shenanigans)  
+**Currently Working On:**  **Ayumi** - Discord bot focusing on music & anti-raid  
+**Learning:** Rust (blazingly fast) • Python (backend shenanigans)  
 **Building With:** React • Next.js • TypeScript • Whatever seems fun  
-**Freelance:** ✅ Available - Discord bots, websites, APIs, custom solutions
+### **Freelance:** Available - Discord bots, websites, APIs, backend of any kind services, redesign, continuation of projects, Startup's system admin, custom solutions and hosting panels/.\
 
 <div align="center">
     <a href="https://discordapp.com/users/953527567808356404" target="_blank">
@@ -68,20 +60,17 @@
 - 🟦 TypeScript • JavaScript • Rust • Python
 
 **Frameworks & Libraries**
-- ⚛️ React • Next.js • Vue.js • Discord.js • Node.js
-
-**Databases & Tools**
-- 🍃 MongoDB • Git • VS Code
+- React • Next.js • Vue.js • Discord.js • Node.js and idk html? i hate vanilla html css code tho
 
 **Currently Learning**
-- 🦀 Rust - making things blazingly fast
-- 🐍 Python - backend shenanigans
+- Rust - making things blazingly fast
+- electron - desktop apps
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats (soon will make my own web api for this shyt)
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shelleyloosespatience&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
@@ -94,8 +83,7 @@
 
 ---
 
-## 🎵 Currently Vibing To
-
+## Recently listened to
 <div align="center">
     <a href="https://open.spotify.com/user/31ap5y3jngmpcyhal65mjkhgqxzm" target="_blank">
         <img src="https://www.laxenta.tech/api/spotify-tracks?user=spotify_a095d865e1751839212c02ef10497dc7&footer=Laxenta+Inc&color=0528d6" alt="Spotify Recently Played" />
@@ -104,16 +92,16 @@
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 <div align="center">
 
 | 🎯 Service | 📝 Description |
 |:---:|:---|
-| 🤖 **Discord Bots** | Custom bots with music, moderation, anti-raid, and more |
-| 🌐 **Websites** | Modern, responsive web applications using React/Next.js |
-| 🔌 **APIs** | RESTful APIs and backend services |
-| ⚡ **Custom Solutions** | Whatever you need built - just ask! |
+| **Discord Bots** | Custom bots with music, moderation, anti-raid, and more |
+| **Websites** | Modern, responsive web applications using React/Next.js |
+| **APIs** | RESTful APIs and backend services |
+| **Custom Solutions** | Whatever you need built - just ask! |
 
 </div>
 
@@ -131,12 +119,12 @@
 
 ```mermaid
 graph LR
-    A[☀️ Wake Up] --> B[🍳 Eat]
-    B --> C[📚 Study]
-    C --> D[📖 Study More]
-    D --> E[💻 Code]
-    E --> F[💬 Talk to favorite woman]
-    F --> G[😴 Sleep]
+    A[Wake Up] --> B[Eat]
+    B --> C[Study]
+    C --> D[Study More]
+    D --> E[Code]
+    E --> F[Talk to favorite woman]
+    F --> G[Sleep]
     G --> A
 ```
 
@@ -147,7 +135,7 @@ graph LR
     
 **@me_straight on Discord**
 
-<sub>💰 Need something built? DM me. Prices are reasonable because I actually enjoy this stuff</sub>
+<sub> Need something built? DM me. Prices are reasonable because I actually enjoy this stuff</sub>
 
 <img src="https://komarev.com/ghpvc/?username=shelleyloosespatience&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
