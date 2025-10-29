@@ -14,6 +14,19 @@
 
 <br/>
 
+## GitHub Stats (soon will make my own web api for this shyt)
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shelleyloosespatience&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelleyloosespatience&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelleyloosespatience&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</div>
+
+---
+
 ## About Me
 
 I'm @me_straight, just some dev who started coding as a hobby. I keep things simple and don't charge crazy prices, i did a lot of work for random collage dudes and i contributed to femboy-hotline.com XDDDD
@@ -61,19 +74,6 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 - electron - desktop apps
 
 </details>
-
----
-
-## GitHub Stats (soon will make my own web api for this shyt)
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shelleyloosespatience&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelleyloosespatience&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelleyloosespatience&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
