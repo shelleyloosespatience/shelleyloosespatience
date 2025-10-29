@@ -1,7 +1,9 @@
 <div align="center">
     <h2>HELLO, What's up :3</h2>
     <h3>https://www.laxenta.tech</h3>
-    <img align="center" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/wuthering-waves-wuwa-14-release-date-and-time-maintenance-starts-ends-when-camellya-coming-out.jpg" alt="@me_straight"/>
+    <!-- <img align="center" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/wuthering-waves-wuwa-14-release-date-and-time-maintenance-starts-ends-when-camellya-coming-out.jpg" alt="@me_straight"/>
+    
+    -->
 </div>
 <br/>
 
