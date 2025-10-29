@@ -19,7 +19,7 @@
 <table align="center">
 <tr>
 <td align="center" width="800">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=I'm+@me_straight%2C+just+some+dev+who+started+coding+as+a+hobby;and+kinda+got+obsessed+with+it.+I+build+stuff+that+actually+works%2C;keep+things+simple%2C+and+don't+charge+crazy+prices;because+I+genuinely+enjoy+doing+this+shit." alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=I'm+@me_straight%2C+just+some+dev+who+started+coding+as+a+hobby%2C;i keep+things+simple%2C+and+don't+charge+crazy+prices;because+I+genuinely+enjoy+doing+this+shit." alt="About Me" />
 </td>
 </tr>
 </table>
