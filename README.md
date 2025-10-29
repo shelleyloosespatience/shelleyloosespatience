@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm @me_straight, just some dev who started coding as a hobby. I keep things simple and don't charge crazy prices because I genuinely enjoy doing this shit.
+I'm @me_straight, just some dev who started coding as a hobby. I keep things simple and don't charge crazy prices, i did a lot of work for random collage dudes and i contributed to femboy-hotline.com XDDDD
 
 **Currently Working On:** **Ayumi** - Discord bot focusing on music & anti-raid  
 **Learning:** Rust (blazingly fast) • Python (backend shenanigans)  
@@ -51,7 +51,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 <br/>
 
 **Languages**
-- 🟦 TypeScript • JavaScript • Rust • Python
+- TypeScript • JavaScript • Rust • Python
 
 **Frameworks & Libraries**
 - React • Next.js • Vue.js • Discord.js • Node.js and idk html? i hate vanilla html css code tho, so most sites i write are in next+ts
@@ -90,7 +90,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 
 <div align="center">
 
-| 🎯 Service | 📝 Description |
+| Service | Description |
 |:---:|:---|
 | **Discord Bots** | Custom bots with music, moderation, anti-raid, and more |
 | **Websites** | Modern, responsive web applications using React/Next.js |
@@ -109,7 +109,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 
 ---
 
-## 🎯 Current Routine
+## Current Routine
 
 ```mermaid
 graph LR
@@ -127,9 +127,9 @@ graph LR
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Hit%20me%20up%20on%20Discord!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
     
-**@me_straight on Discord**
+**@me_straight on Discord or email, laxenta.inc@gmail.com**
 
-<sub> Need something built? DM me. Prices are reasonable because I actually enjoy this stuff</sub>
+<sub> Need something built? DM me. Prices are reasonable. Simple, i will give a demo before anything, I did a lot of freelance work for collage students in past and 2-3 failed startups (not my fault they failed) </sub>
 
 <img src="https://komarev.com/ghpvc/?username=shelleyloosespatience&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
