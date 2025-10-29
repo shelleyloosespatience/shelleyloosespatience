@@ -54,7 +54,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 - TypeScript • JavaScript • Rust • Python
 
 **Frameworks & Libraries**
-- React • Next.js • Vue.js • Discord.js • Node.js and idk html? i hate vanilla html css code tho, so most sites i write are in next+ts
+- React • Next.js • Vue.js • Discord.js • Node.js and i forgor, i hate vanilla html css code tho, so most sites i write are in next+ts
 
 **Currently Learning**
 - Rust - making things blazingly fast
