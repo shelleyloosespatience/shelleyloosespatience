@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind" />
 
 ### Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,rust,python,mongodb,git,vscode,discord,electron,html,javascript,typescript,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,rust,mongodb,git,vscode,discord,electron,javascript,typescript" />
 
 </div>
 
@@ -60,7 +60,7 @@
 - 🟦 TypeScript • JavaScript • Rust • Python
 
 **Frameworks & Libraries**
-- React • Next.js • Vue.js • Discord.js • Node.js and idk html? i hate vanilla html css code tho
+- React • Next.js • Vue.js • Discord.js • Node.js and idk html? i hate vanilla html css code tho, so most sites i write are in next+ts
 
 **Currently Learning**
 - Rust - making things blazingly fast
