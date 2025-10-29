@@ -1,64 +1,158 @@
 <div align="center">
-    <h2>HELLO, What's up :3</h2>
-    <h3>https://www.laxenta.tech</h3>
-    <!-- <img align="center" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/wuthering-waves-wuwa-14-release-date-and-time-maintenance-starts-ends-when-camellya-coming-out.jpg" alt="@me_straight"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+What's+up+%3A3;Full+Stack+Developer;Discord+Bot+Creator;Freelance+Developer" alt="Typing SVG" />
     
-    -->
+<h3>
+        <a href="https://www.laxenta.tech">
+            <img src="https://img.shields.io/badge/🌐_laxenta.tech-6366F1?style=for-the-badge&logoColor=white" alt="Website" />
+        </a>
+    </h3>
 </div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <br/>
 
-<p align="left">
-    I'm <b>@me_straight</b>, just some dev who started coding as a hobby and kinda got obsessed with it. I build stuff that actually works, keep things simple, and don't charge crazy prices because I genuinely enjoy doing this shit.
-</p> 
+## 👨‍💻 About Me
 
-<p align="left">
-<!--     <a href="https://twitter.com/" target="_blank">
-        <img src="https://img.shields.io/badge/@me_straight-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="@me_straight" />
-    </a> -->
-    <a href="https://discordapp.com/users/953527567808356404" target="_blank">
-        <img src="https://img.shields.io/badge/@me_straight-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="953527567808356404" />
-    </a>
-</p>
-
-- 🤖 currently working on **Ayumi** - a discord bot that focuses on everything, but its esp for music/antiraid
-- 💻 building random stuff with **React, Next.js, TypeScript, and whatever else seems fun**
-- 🦀 learning **Rust** because why not make things blazingly fast
-- 🐍 also picking up **Python** for backend shenanigans
-- 📦 all my projects are in **[repositories](https://github.com/shelleyloosespatience?tab=repositories)** if you wanna check them out
-- 💸 i do freelance work - discord bots, websites, apis, whatever you need
-
----
-
-## 🛠️ stuff i work with
+```typescript
+const developer = {
+    name: "@me_straight",
+    location: "Earth 🌍",
+    currentFocus: "Building cool shit that actually works",
+    philosophy: "Keep it simple, make it functional",
+    motivation: "I genuinely enjoy coding",
+    
+    workingOn: {
+        project: "Ayumi",
+        description: "Discord bot focusing on music & anti-raid",
+        status: "In active development 🚀"
+    },
+    
+    learning: ["Rust 🦀", "Python 🐍"],
+    interests: ["React", "Next.js", "TypeScript", "Discord Bots"],
+    
+    freelance: {
+        available: true,
+        services: ["Discord Bots", "Websites", "APIs", "Custom Solutions"],
+        pricing: "Reasonable - because I love what I do"
+    }
+};
+```
 
 <div align="center">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <a href="https://discordapp.com/users/953527567808356404" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-@me__straight-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://github.com/shelleyloosespatience?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/Repositories-Check_them_out-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    </a>
 </div>
 
 ---
 
-<div align="center">
-    <h2>🎵 what i'm up to? I wake up, i eat, i study, then i study more, then i prob code, then talk to my favorite woman, then die for the night.</h2>
-<!--     <a href="https://discord.com/users/953527567808356404" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/953527567808356404" /> -->
-    </a>
-    <br/>
-    <a href="https://open.spotify.com/user/31ap5y3jngmpcyhal65mjkhgqxzm" target="_blank">
+## 🛠️ Tech Stack
 
-<img src="https://www.laxenta.tech/api/spotify-tracks?user=spotify_a095d865e1751839212c02ef10497dc7&footer=Laxenta+Inc&color=0528d6" alt="Spotify Recently Played" />
-        <div align="center">
-    <p><i>@me_straight on discord</i></p>
-    <p><sub>ps: if you need something built, just dm me. prices are reasonable because i actually enjoy this stuff :accessibility: </sub></p>
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind" />
+
+### Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,rust,python,mongodb,git,vscode,discord" />
+
+</div>
+
+<details>
+<summary>📦 <b>More Tools & Technologies</b></summary>
+<br/>
+
+**Languages**
+- 🟦 TypeScript • JavaScript • Rust • Python
+
+**Frameworks & Libraries**
+- ⚛️ React • Next.js • Vue.js • Discord.js • Node.js
+
+**Databases & Tools**
+- 🍃 MongoDB • Git • VS Code
+
+**Currently Learning**
+- 🦀 Rust - making things blazingly fast
+- 🐍 Python - backend shenanigans
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shelleyloosespatience&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelleyloosespatience&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelleyloosespatience&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+    <a href="https://open.spotify.com/user/31ap5y3jngmpcyhal65mjkhgqxzm" target="_blank">
+        <img src="https://www.laxenta.tech/api/spotify-tracks?user=spotify_a095d865e1751839212c02ef10497dc7&footer=Laxenta+Inc&color=0528d6" alt="Spotify Recently Played" />
+    </a>
+</div>
+
+---
+
+## 💼 What I Do
+
+<div align="center">
+
+| 🎯 Service | 📝 Description |
+|:---:|:---|
+| 🤖 **Discord Bots** | Custom bots with music, moderation, anti-raid, and more |
+| 🌐 **Websites** | Modern, responsive web applications using React/Next.js |
+| 🔌 **APIs** | RESTful APIs and backend services |
+| ⚡ **Custom Solutions** | Whatever you need built - just ask! |
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelleyloosespatience&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Routine
+
+```mermaid
+graph LR
+    A[☀️ Wake Up] --> B[🍳 Eat]
+    B --> C[📚 Study]
+    C --> D[📖 Study More]
+    D --> E[💻 Code]
+    E --> F[💬 Talk to favorite woman]
+    F --> G[😴 Sleep]
+    G --> A
+```
+
+---
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Hit%20me%20up%20on%20Discord!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
+    
+**@me_straight on Discord**
+
+<sub>💰 Need something built? DM me. Prices are reasonable because I actually enjoy this stuff</sub>
+
+<img src="https://komarev.com/ghpvc/?username=shelleyloosespatience&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
