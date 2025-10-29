@@ -20,7 +20,7 @@
     </a>
 </p>
 
-- 🤖 currently working on **Ayumi** - a discord bot that focuses on everything, but its esp for music/nsfw
+- 🤖 currently working on **Ayumi** - a discord bot that focuses on everything, but its esp for music/antiraid
 - 💻 building random stuff with **React, Next.js, TypeScript, and whatever else seems fun**
 - 🦀 learning **Rust** because why not make things blazingly fast
 - 🐍 also picking up **Python** for backend shenanigans
