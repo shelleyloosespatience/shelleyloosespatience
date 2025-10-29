@@ -14,20 +14,14 @@
 
 <br/>
 
-## About Meh? you can read it on my site ngl
+## About Me
 
-<table align="center">
-<tr>
-<td align="center" width="800">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=I'm+@me_straight%2C+just+some+dev+who+started+coding+as+a+hobby%2C;i keep+things+simple%2C+and+don't+charge+crazy+prices;because+I+genuinely+enjoy+doing+this+shit." alt="About Me" />
-</td>
-</tr>
-</table>
+I'm @me_straight, just some dev who started coding as a hobby. I keep things simple and don't charge crazy prices because I genuinely enjoy doing this shit.
 
-**Currently Working On:**  **Ayumi** - Discord bot focusing on music & anti-raid  
+**Currently Working On:** **Ayumi** - Discord bot focusing on music & anti-raid  
 **Learning:** Rust (blazingly fast) • Python (backend shenanigans)  
 **Building With:** React • Next.js • TypeScript • Whatever seems fun  
-### **Freelance:** Available - Discord bots, websites, APIs, backend of any kind services, redesign, continuation of projects, Startup's system admin, custom solutions and hosting panels/.\
+**Freelance:** Available - Discord bots, websites, APIs, backend of any kind services, redesign, continuation of projects, Startup's system admin, custom solutions and hosting panels.
 
 <div align="center">
     <a href="https://discordapp.com/users/953527567808356404" target="_blank">
