@@ -18,8 +18,8 @@
 
 I'm @me_straight, just some dev who started coding as a hobby. I keep things simple and don't charge crazy prices, i did a lot of work for random collage dudes and i contributed to femboy-hotline.com XDDDD
 
-**Currently Working On:** **Ayumi** - Discord bot focusing on music & anti-raid  
-**Learning:** Rust (blazingly fast) • Python (backend shenanigans)  
+**Currently Working On:** **Ayumi** - Discord bot focusing on music & anti-raid and nsfw and cybersecurity tools and mudae AAAAND moderation anddddd anime commands (bonk etc). Lmao
+**Learning:** Rust and Electron
 **Building With:** React • Next.js • TypeScript • Whatever seems fun  
 **Freelance:** Available - Discord bots, websites, APIs, backend of any kind services, redesign, continuation of projects, Startup's system admin, custom solutions and hosting panels.
 
