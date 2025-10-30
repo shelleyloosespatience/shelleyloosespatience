@@ -26,7 +26,14 @@
 </div>
 
 ---
+---
 
+## Activity Graph
+
+<div align="center">
+<img src="https://reimagined-trout-565g66j6r7j27grp-3000.app.github.dev/api/github-heatmap?user=shelleyloosespatience&color=6366F1&bg=0D1117&theme=compact&stats=true&chart=heatmap" />
+
+---
 ## About Me
 
 I'm @me_straight, just some dev who started coding as a hobby. I keep things simple and don't charge crazy prices, i did a lot of work for random collage dudes and i contributed to femboy-hotline.com XDDDD
@@ -99,14 +106,6 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 
 </div>
 
----
-
-## Activity Graph
-
-<div align="center">
-<img src="https://reimagined-trout-565g66j6r7j27grp-3000.app.github.dev/api/github-heatmap?user=shelleyloosespatience&color=6366F1&bg=0D1117&theme=compact&stats=true&chart=heatmap" />
-
----
 
 ## Current Routine
 
