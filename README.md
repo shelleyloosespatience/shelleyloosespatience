@@ -80,7 +80,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 ## Recently listened to
 <div align="center">
     <a href="https://open.spotify.com/user/31ap5y3jngmpcyhal65mjkhgqxzm" target="_blank">
-        <img src="https://www.laxenta.tech/api/spotify-tracks?user=31ap5y3jngmpcyhal65mjkhgqxzm" alt="Spotify Recently Played" />
+        <img src="![Spotify Recently Played](https://www.laxenta.tech/api/spotify-tracks?user=31ap5y3jngmpcyhal65mjkhgqxzm&footer=Laxenta+Inc&color=00f5d4)" alt="Spotify Recently Played" />
     </a>
 </div>
 
