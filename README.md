@@ -104,7 +104,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 ## Activity Graph
 
 <div align="center">
-<img src="[https://www.laxenta.tech/api/github-heatmap?user=shelleyloosespatience&color=6366F1&bg=0D1117&theme=default&stats=true&chart=radar" />
+<img src="https://www.laxenta.tech/api/github-heatmap?user=shelleyloosespatience&color=6366F1&bg=0D1117&theme=default&stats=true&chart=radar" />
 
 ---
 
