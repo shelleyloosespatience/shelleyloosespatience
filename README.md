@@ -31,7 +31,7 @@
 ## Activity Graph
 
 <div align="center">
-<img src="https://reimagined-trout-565g66j6r7j27grp-3000.app.github.dev/api/github-heatmap?user=shelleyloosespatience&color=6366F1&bg=0D1117&theme=compact&stats=true&chart=heatmap" />
+<img src="https://www.laxenta.tech/api/github-heatmap?user=shelleyloosespatience&color=6366F1&bg=0D1117&theme=default&stats=true&chart=line" />
 
 ---
 ## About Me
