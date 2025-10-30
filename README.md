@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+What's+up+%3A3;Full+Stack+Developer;Hosting+Solutions;Hobbyist+Freelance+Developer;Custom+fullstack+setup;Startup+Solutions;demands?+huH?" alt="Typing SVG" />
-    <h1> All api;s used are opensource and provided my me to myself </>
+    <h1> All api's used are opensource and provided by me to myself </>
 <h3>
         <a href="https://www.laxenta.tech">
             <img src="https://img.shields.io/badge/🌐_laxenta.tech-6366F1?style=for-the-badge&logoColor=white" alt="Website" />
