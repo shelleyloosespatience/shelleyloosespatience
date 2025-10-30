@@ -17,7 +17,7 @@
 ## GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shelleyloosespatience&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+    <<img src="https://www.laxenta.tech/api/github-stats?v=1" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelleyloosespatience&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 </div>
 
