@@ -104,7 +104,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 ## 📈 Activity Graph
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shelleyloosespatience&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph" />
+    <img src="https://www.laxenta.tech/api/github-heatmap?user=shelleyloosespatience&color=06B6D4&bg=223a5d&theme=default&stats=true" alt="Contribution Graph" />
 </div>
 
 ---
