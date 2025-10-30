@@ -104,8 +104,7 @@ I'm @me_straight, just some dev who started coding as a hobby. I keep things sim
 ## Activity Graph
 
 <div align="center">
-    <img src="https://www.laxenta.tech/api/github-heatmap?user=shelleyloosespatience&color=06B6D4&bg=223a5d&theme=default&stats=true" alt="Contribution Graph" />
-</div>
+![GitHub Activity](https://www.laxenta.tech/api/github-heatmap?user=shelleyloosespatience&color=f91521&bg=0D1117&theme=default&stats=true)</div>
 
 ---
 
