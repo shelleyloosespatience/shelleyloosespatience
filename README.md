@@ -17,7 +17,7 @@
 ## GitHub Stats
 
 <div align="center">
-    <<img src="https://www.laxenta.tech/api/github-stats?user=shelleyloosespatience&v=2" alt="GitHub Stats" />
+    <<img src="https://www.laxenta.tech/api/github-stats?token=acfe6ba9e76aa68bd94f013f12fb433e&v=2" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelleyloosespatience&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 </div>
 
