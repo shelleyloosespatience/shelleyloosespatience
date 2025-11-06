@@ -21,9 +21,9 @@
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelleyloosespatience&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" /> -->
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelleyloosespatience&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</div>
+</div> -->
 
 ---
 ---
